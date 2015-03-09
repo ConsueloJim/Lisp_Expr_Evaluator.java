@@ -1,15 +1,5 @@
 /************************************************************************************
  *
- *  		CSC220 Programming Project#2
- *  
- * Due Date: 23:55pm, Wednesday, 4/2/2014  
- *           Upload LispExprEvaluator.java to ilearn 
- *
- * Specification: 
- *
- * Taken from Project 6, Chapter 5, Page 137
- * I have modified specification and requirements of this project
- *
  * Ref: http://www.gigamonkeys.com/book/        (see chap. 10)
  *      http://joeganley.com/code/jslisp.html   (GUI)
  *
