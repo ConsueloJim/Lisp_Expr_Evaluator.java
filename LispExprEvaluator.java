@@ -31,33 +31,7 @@
  *	(+ -6 24 -1.5 0.0)
  *	16.5
  *
- * Requirements:
  *
- * - Design and implement an algorithm that uses Java API stacks to evaluate a 
- *   Valid Lisp expression composed of the four basic operators and integer values. 
- * - Valid tokens in an expression are '(',')','+','-','*','/',and positive integers (>=0)
- * - In case of errors, your program must throw LispExprException
- * - Display result as floting point number with at 2 decimal places
- * - Negative number is not a valid "input" operand, e.g. (+ -2 3) 
- *   However, you may create a negative number using parentheses, e.g. (+ (-2)3)
- * - There may be any number of blank spaces, >= 0, in between tokens
- *   Thus, the following expressions are valid:
- *   	(+   (-6)3)
- *   	(/(+20 30))
- *
- * - Must use Java API Stack class in this project.
- *   Ref: http://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
- * - Must throw LispExprException to indicate errors
- * - Must not add new or modify existing data fields
- * - Must implement these methods : 
- *
- *   	public LispExprEvaluator()
- *   	public LispExprEvaluator(String inputExpression) 
- *      public void reset(String inputExpression) 
- *      public double evaluate()
- *      private void evaluateCurrentOperation()
- *
- * - You may add new private methods
  *
  *************************************************************************************/
 
