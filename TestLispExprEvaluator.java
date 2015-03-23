@@ -1,7 +1,6 @@
 import PJ2.*;
 import java.util.*;
 
-// Do not modify this file.
 //
 // Simple test program which allows user to input Lisp expr string
 // To terminate: type "exit"
